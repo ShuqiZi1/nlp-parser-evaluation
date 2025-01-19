@@ -1,0 +1,283 @@
+1. As she walked past it, the driver's glass started to open.
+As\as\SCONJ\IN	she\she\PRON\PRP	walked\walked\VERB\VBD	past\past\ADP\IN	it\it\PRON\PRP	,\,\PUNCT\,	the\the\DET\DT	driver\driver\NOUN\NN	's\'s\PART\POS	glass\glass\NOUN\NN	started\started\VERB\VBD	to\to\PART\TO	open\open\VERB\VB	.\.\PUNCT\.
+(TOP
+  (S
+    (SBAR
+      (IN As)
+      (S
+        (NP (PRP she))
+        (VP (VBD walked) (PP (IN past) (NP (PRP it))))))
+    (, ,)
+    (NP (NP (DT the) (NN driver) (POS 's)) (NN glass))
+    (VP (VBD started) (S (VP (TO to) (VP (VB open)))))
+    (. .)))
+1	As	mark	3
+2	she	nsubj	3
+3	walked	advcl	11
+4	past	prep	3
+5	it	pobj	4
+6	,	punct	11
+7	the	det	8
+8	driver	poss	10
+9	's	case	8
+10	glass	nsubj	11
+11	started	ROOT	11
+12	to	aux	13
+13	open	xcomp	11
+14	.	punct	11
+
+2. With a handkerchief she wiped the sweat from her forehead.
+With\with\ADP\IN	a\a\DET\DT	handkerchief\handkerchief\NOUN\NN	she\she\PRON\PRP	wiped\wiped\VERB\VBD	the\the\DET\DT	sweat\sweat\NOUN\NN	from\from\ADP\IN	her\her\PRON\PRP$	forehead\forehead\NOUN\NN	.\.\PUNCT\.
+(TOP
+  (S
+    (PP (IN With) (NP (DT a) (NN handkerchief)))
+    (NP (PRP she))
+    (VP
+      (VBD wiped)
+      (NP (DT the) (NN sweat))
+      (PP (IN from) (NP (PRP$ her) (NN forehead))))
+    (. .)))
+1	With	prep	5
+2	a	det	3
+3	handkerchief	pobj	1
+4	she	nsubj	5
+5	wiped	ROOT	5
+6	the	det	7
+7	sweat	dobj	5
+8	from	prep	5
+9	her	poss	10
+10	forehead	pobj	8
+11	.	punct	5
+
+3. Prudently, they had diversified into banking and insurance, and as a result their influence was felt at the highest level.
+Prudently\prudently\ADV\RB	,\,\PUNCT\,	they\they\PRON\PRP	had\had\AUX\VBD	diversified\diversified\VERB\VBN	into\into\ADP\IN	banking\banking\NOUN\NN	and\and\CCONJ\CC	insurance\insurance\NOUN\NN	,\,\PUNCT\,	and\and\CCONJ\CC	as\as\ADP\IN	a\a\DET\DT	result\result\NOUN\NN	their\their\PRON\PRP$	influence\influence\NOUN\NN	was\was\AUX\VBD	felt\felt\VERB\VBN	at\at\ADP\IN	the\the\DET\DT	highest\highest\ADJ\JJS	level\level\NOUN\NN	.\.\PUNCT\.
+(TOP
+  (S
+    (ADVP (RB Prudently))
+    (, ,)
+    (S
+      (NP (PRP they))
+      (VP
+        (VBD had)
+        (VP
+          (VBN diversified)
+          (PP (IN into) (NP (NN banking) (CC and) (NN insurance))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN as) (NP (DT a) (NN result)))
+      (NP (PRP$ their) (NN influence))
+      (VP
+        (VBD was)
+        (VP
+          (VBN felt)
+          (PP (IN at) (NP (DT the) (JJS highest) (NN level))))))
+    (. .)))
+1	Prudently	advmod	5
+2	,	punct	5
+3	they	nsubj	5
+4	had	aux	5
+5	diversified	ROOT	5
+6	into	prep	5
+7	banking	pobj	6
+8	and	cc	7
+9	insurance	conj	7
+10	,	punct	5
+11	and	cc	5
+12	as	prep	18
+13	a	det	14
+14	result	pobj	12
+15	their	poss	16
+16	influence	nsubjpass	18
+17	was	auxpass	18
+18	felt	conj	5
+19	at	prep	18
+20	the	det	22
+21	highest	amod	22
+22	level	pobj	19
+23	.	punct	18
+
+4. The arranged marriage would be the social event of the following year.
+The\the\DET\DT	arranged\arranged\ADJ\JJ	marriage\marriage\NOUN\NN	would\would\AUX\MD	be\be\AUX\VB	the\the\DET\DT	social\social\ADJ\JJ	event\event\NOUN\NN	of\of\ADP\IN	the\the\DET\DT	following\following\ADJ\JJ	year\year\NOUN\NN	.\.\PUNCT\.
+(TOP
+  (S
+    (NP (DT The) (VBN arranged) (NN marriage))
+    (VP
+      (MD would)
+      (VP
+        (VB be)
+        (NP
+          (NP (DT the) (JJ social) (NN event))
+          (PP (IN of) (NP (DT the) (VBG following) (NN year))))))
+    (. .)))
+1	The	det	3
+2	arranged	amod	3
+3	marriage	nsubj	5
+4	would	aux	5
+5	be	ROOT	5
+6	the	det	8
+7	social	amod	8
+8	event	attr	5
+9	of	prep	8
+10	the	det	12
+11	following	amod	12
+12	year	pobj	9
+13	.	punct	5
+
+5. When at last she spoke, her words were heavy and disjointed.
+When\when\SCONJ\WRB	at\at\ADP\IN	last\last\ADV\RB	she\she\PRON\PRP	spoke\spoke\VERB\VBD	,\,\PUNCT\,	her\her\PRON\PRP$	words\words\NOUN\NNS	were\were\AUX\VBD	heavy\heavy\ADJ\JJ	and\and\CCONJ\CC	disjointed\disjointed\ADJ\JJ	.\.\PUNCT\.
+(TOP
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S (ADVP (IN at) (RB last)) (NP (PRP she)) (VP (VBD spoke))))
+    (, ,)
+    (NP (PRP$ her) (NNS words))
+    (VP (VBD were) (ADJP (JJ heavy) (CC and) (JJ disjointed)))
+    (. .)))
+1	When	advmod	5
+2	at	prep	5
+3	last	pobj	2
+4	she	nsubj	5
+5	spoke	advcl	9
+6	,	punct	9
+7	her	poss	8
+8	words	nsubj	9
+9	were	ROOT	9
+10	heavy	acomp	9
+11	and	cc	10
+12	disjointed	conj	10
+13	.	punct	9
+
+6. The road to the coast was busy with traffic in both directions.
+The\the\DET\DT	road\road\NOUN\NN	to\to\ADP\IN	the\the\DET\DT	coast\coast\NOUN\NN	was\was\AUX\VBD	busy\busy\ADJ\JJ	with\with\ADP\IN	traffic\traffic\NOUN\NN	in\in\ADP\IN	both\both\DET\DT	directions\directions\NOUN\NNS	.\.\PUNCT\.
+(TOP
+  (S
+    (NP
+      (NP (DT The) (NN road))
+      (PP (IN to) (NP (DT the) (NN coast))))
+    (VP
+      (VBD was)
+      (ADJP
+        (JJ busy)
+        (PP
+          (IN with)
+          (NP
+            (NP (NN traffic))
+            (PP (IN in) (NP (DT both) (NNS directions)))))))
+    (. .)))
+1	The	det	2
+2	road	nsubj	6
+3	to	prep	2
+4	the	det	5
+5	coast	pobj	3
+6	was	ROOT	6
+7	busy	acomp	6
+8	with	prep	7
+9	traffic	pobj	8
+10	in	prep	6
+11	both	det	12
+12	directions	pobj	10
+13	.	punct	6
+
+7. The expected date came and went.
+The\the\DET\DT	expected\expected\VERB\VBN	date\date\NOUN\NN	came\came\VERB\VBD	and\and\CCONJ\CC	went\went\VERB\VBD	.\.\PUNCT\.
+(TOP
+  (S
+    (NP (DT The) (VBN expected) (NN date))
+    (VP (VBD came) (CC and) (VBD went))
+    (. .)))
+1	The	det	3
+2	expected	amod	3
+3	date	nsubj	4
+4	came	ROOT	4
+5	and	cc	4
+6	went	conj	4
+7	.	punct	4
+
+8. She sighed at the irony of it all, the waste of it all.
+She\she\PRON\PRP	sighed\sighed\VERB\VBD	at\at\ADP\IN	the\the\DET\DT	irony\irony\NOUN\NN	of\of\ADP\IN	it\it\PRON\PRP	all\all\PRON\DT	,\,\PUNCT\,	the\the\DET\DT	waste\waste\NOUN\NN	of\of\ADP\IN	it\it\PRON\PRP	all\all\PRON\DT	.\.\PUNCT\.
+(TOP
+  (S
+    (NP (PRP She))
+    (VP
+      (VBD sighed)
+      (PP
+        (IN at)
+        (NP
+          (NP
+            (NP (DT the) (NN irony))
+            (PP (IN of) (NP (NP (PRP it)) (NP (DT all)))))
+          (, ,)
+          (NP
+            (NP (DT the) (NN waste))
+            (PP (IN of) (NP (NP (PRP it)) (NP (DT all))))))))
+    (. .)))
+1	She	nsubj	2
+2	sighed	ROOT	2
+3	at	prep	2
+4	the	det	5
+5	irony	pobj	3
+6	of	prep	5
+7	it	pobj	6
+8	all	appos	7
+9	,	punct	2
+10	the	det	11
+11	waste	npadvmod	2
+12	of	prep	11
+13	it	pobj	12
+14	all	appos	13
+15	.	punct	2
+
+9. All through August the rain hardly stopped.
+All\all\ADV\RB	through\through\ADP\IN	August\august\PROPN\NNP	the\the\DET\DT	rain\rain\NOUN\NN	hardly\hardly\ADV\RB	stopped\stopped\VERB\VBD	.\.\PUNCT\.
+(TOP
+  (S
+    (PP (ADVP (DT All)) (IN through) (NP (NNP August)))
+    (NP (DT the) (NN rain))
+    (ADVP (RB hardly))
+    (VP (VBD stopped))
+    (. .)))
+1	All	advmod	2
+2	through	prep	7
+3	August	pobj	2
+4	the	det	5
+5	rain	nsubj	7
+6	hardly	advmod	7
+7	stopped	ROOT	7
+8	.	punct	7
+
+10. Thank the gods he didn't have to know of this.
+Thank\thank\VERB\VBP	the\the\DET\DT	gods\gods\NOUN\NNS	he\he\PRON\PRP	did\did\AUX\VBD	n't\n't\PART\RB	have\have\VERB\VB	to\to\PART\TO	know\know\VERB\VB	of\of\ADP\IN	this\this\PRON\DT	.\.\PUNCT\.
+(TOP
+  (S
+    (VP
+      (VB Thank)
+      (NP
+        (NP (DT the) (NNS gods))
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP
+              (VBD did)
+              (RB n't)
+              (VP
+                (VB have)
+                (S
+                  (VP
+                    (TO to)
+                    (VP (VB know) (PP (IN of) (NP (DT this))))))))))))
+    (. .)))
+1	Thank	ROOT	1
+2	the	det	3
+3	gods	dobj	1
+4	he	nsubj	7
+5	did	aux	7
+6	n't	neg	7
+7	have	relcl	3
+8	to	aux	9
+9	know	xcomp	7
+10	of	prep	9
+11	this	pobj	10
+12	.	punct	1
+
