@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+allen_venv/
+berkeley_venv/
+eval_venv/
+stanza_venv/
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore results and temporary data
+results/
+*.txt
